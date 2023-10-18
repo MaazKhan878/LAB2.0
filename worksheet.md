@@ -10,6 +10,11 @@ Name(s) and Login(s):
 was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
+Answer:
+Answer from program.
+Today is 2023/10/05
+Your birthday was 1841/09/09
+Hello, Dennis.  You are 0 years, 0 weeks, and 0 days old today
 
 
 
@@ -17,6 +22,11 @@ program on the appropriate inputs and enter your solution here.
 2. Bjarne Stroustrup, the creator of the C++ programming
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
+Answer:
+Answer from program.
+Today is 2023/10/05
+Your birthday was 1950/12/30
+Hello, Bjarne.  You are 0 years, 0 weeks, and 0 days old today
 
 
 
