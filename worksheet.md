@@ -100,6 +100,7 @@ in your conversion program.  Would you be able
 to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
+Answer: NO because int can stored the number upto 32 bit and the given number greater so 32bit not sufficient for that because it limited to 32bit.
 
 
 
