@@ -1,3 +1,4 @@
+// The program about to get exchange fee and half remaine dollor convert to pound and half to Yen 
 #include<stdio.h>
 int main(){
 float dollar, exchangeFee, dollarPerPound, totalAmountDollar;
